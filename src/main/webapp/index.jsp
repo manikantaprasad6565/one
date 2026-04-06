@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Mayuri Collection 2023</h1>
+            <h1>Mayuri Collection 2026</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
@@ -845,17 +845,17 @@
         <div class="categories">
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-mobile-alt"></i></div>
-                <h3>Smartphones</h3>
+                <h3>jwellery</h3>
                 <p>Latest models from top brands</p>
             </div>
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-laptop"></i></div>
-                <h3>Laptops</h3>
+                <h3>earrings</h3>
                 <p>Powerful machines for work & play</p>
             </div>
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-tshirt"></i></div>
-                <h3>Clothing</h3>
+                <h3>bangles</h3>
                 <p>Trendy outfits for every occasion</p>
             </div>
             <div class="category-card">
