@@ -120,7 +120,7 @@
         .dropdown-content a {
             padding: 10px 20px;
             display: block;
-            color: var(--dark);
+            color: var(--light);
         }
 
         .dropdown-content a:hover {
@@ -888,7 +888,7 @@
                 <span class="product-badge">New</span>
                 <img src="https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Smartphone" class="product-img">
                 <div class="product-info">
-                    <h3>iPhone 14 Pro Max</h3>
+                    <h3>mayuri iPhone 14 Pro Max</h3>
                     <div class="price">$1,099 <span class="old-price">$1,199</span></div>
                     <div class="rating">★★★★★ <span>(128)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
@@ -897,7 +897,7 @@
             <div class="product-card">
                 <img src="https://images.unsplash.com/photo-1593642632823-8f785ba67e45?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Laptop" class="product-img">
                 <div class="product-info">
-                    <h3>MacBook Pro 14"</h3>
+                    <h3>mayuri MacBook Pro 14"</h3>
                     <div class="price">$1,999</div>
                     <div class="rating">★★★★☆ <span>(86)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
@@ -907,7 +907,7 @@
                 <span class="product-badge">-25%</span>
                 <img src="https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Smartwatch" class="product-img">
                 <div class="product-info">
-                    <h3>Apple Watch Series 8</h3>
+                    <h3>mayuri Watch Series 8</h3>
                     <div class="price">$349 <span class="old-price">$399</span></div>
                     <div class="rating">★★★★★ <span>(214)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
@@ -916,7 +916,7 @@
             <div class="product-card">
                 <img src="https://images.unsplash.com/photo-1542272604-787c3835535d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Sneakers" class="product-img">
                 <div class="product-info">
-                    <h3>Nike Air Max 270</h3>
+                    <h3>mayuri max pro 27</h3>
                     <div class="price">$150</div>
                     <div class="rating">★★★★☆ <span>(53)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
@@ -925,8 +925,8 @@
             <div class="product-card">
                 <img src="https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Camera" class="product-img">
                 <div class="product-info">
-                    <h3>Sony A7 IV Camera</h3>
-                    <div class="price">$2,499</div>
+                    <h3>mayuri Camera</h3>
+                    <div class="price">$4,999</div>
                     <div class="rating">★★★★★ <span>(42)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
@@ -945,7 +945,7 @@
                 <img src="https://images.unsplash.com/photo-1551232864-3f0890e580d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Backpack" class="product-img">
                 <div class="product-info">
                     <h3>Travel Backpack</h3>
-                    <div class="price">$79 <span class="old-price">$99</span></div>
+                    <div class="price">$790 <span class="old-price">$999</span></div>
                     <div class="rating">★★★★☆ <span>(67)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
@@ -991,7 +991,7 @@
                         </div>
                     </div>
                     
-                    <div class="deal-price">$999 <span class="deal-old-price">$1,199</span> <span class="deal-discount">-17%</span></div>
+                    <div class="deal-price">$100 <span class="deal-old-price">$50</span> <span class="deal-discount">-17%</span></div>
                     
                     <p>Only <strong>12</strong> items left at this price!</p>
                     
@@ -1173,7 +1173,7 @@
         addToCartButtons.forEach(button => {
             button.addEventListener('click', () => {
                 // Animation effect
-                button.textContent = 'Added!';
+                button.textContent = 'selected!';
                 button.style.backgroundColor = 'var(--success)';
                 
                 // Update cart count
