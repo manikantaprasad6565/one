@@ -827,7 +827,7 @@
     <section class="hero">
         <div class="hero-content">
             <h1>Mayuri  Collection 2026</h1>
-            <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
+            <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
                 <a href="#" class="btn btn-secondary">Explore Deals</a>
@@ -846,7 +846,7 @@
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-mobile-alt"></i></div>
                 <h3>jwellery</h3>
-                <p>Latest models from top brands</p>
+                <p>Latest models from lalitha jewllery</p>
             </div>
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-laptop"></i></div>
@@ -856,7 +856,7 @@
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-tshirt"></i></div>
                 <h3>bangles</h3>
-                <p>Trendy outfits for every occasion</p>
+                <p>Trendy designs for every occasion</p>
             </div>
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-headphones"></i></div>
@@ -871,7 +871,7 @@
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-watch"></i></div>
                 <h3>Accessories</h3>
-                <p>Complete your look</p>
+                <p>change your look</p>
             </div>
         </div>
     </section>
