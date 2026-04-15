@@ -889,7 +889,7 @@
                 <img src="https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Smartphone" class="product-img">
                 <div class="product-info">
                     <h3>mayu iPhone 14 Pro Max</h3>
-                    <div class="price">$1,099 <span class="old-price">$1,199</span></div>
+                    <div class="price">$19 <span class="old-price">$1,199</span></div>
                     <div class="rating">★★★★★ <span>(128)</span></div>
                     <button class="add-to-cart">Add to mayu cart</button>
                 </div>
@@ -898,7 +898,7 @@
                 <img src="https://images.unsplash.com/photo-1593642632823-8f785ba67e45?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Laptop" class="product-img">
                 <div class="product-info">
                     <h3>mayu MacBook Pro 14"</h3>
-                    <div class="price">$1,999</div>
+                    <div class="price">$111</div>
                     <div class="rating">★★★★☆ <span>(86)</span></div>
                     <button class="add-to-cart">Add to mayu cart</button>
                 </div>
@@ -908,7 +908,7 @@
                 <img src="https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Smartwatch" class="product-img">
                 <div class="product-info">
                     <h3>mayu Watch Series 8</h3>
-                    <div class="price">$349 <span class="old-price">$399</span></div>
+                    <div class="price">$54 <span class="old-price">$399</span></div>
                     <div class="rating">★★★★★ <span>(214)</span></div>
                     <button class="add-to-cart">Add to mayu cart</button>
                 </div>
@@ -917,7 +917,7 @@
                 <img src="https://images.unsplash.com/photo-1542272604-787c3835535d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Sneakers" class="product-img">
                 <div class="product-info">
                     <h3>mayu max pro 27</h3>
-                    <div class="price">$150</div>
+                    <div class="price">$15</div>
                     <div class="rating">★★★★☆ <span>(53)</span></div>
                     <button class="add-to-cart">Add to mayu cart</button>
                 </div>
@@ -926,7 +926,7 @@
                 <img src="https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Camera" class="product-img">
                 <div class="product-info">
                     <h3>mayu Camera</h3>
-                    <div class="price">$4,999</div>
+                    <div class="price">$20</div>
                     <div class="rating">★★★★★ <span>(42)</span></div>
                     <button class="add-to-cart">Add to mayu cart</button>
                 </div>
@@ -936,16 +936,16 @@
                 <img src="https://images.unsplash.com/photo-1585386959984-a4155224a1ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Perfume" class="product-img">
                 <div class="product-info">
                     <h3>Chanel No. 5</h3>
-                    <div class="price">$120</div>
+                    <div class="price">$9</div>
                     <div class="rating">★★★★★ <span>(189)</span></div>
-                    <button class="add-to-mayu cart">Add to mayu Cart</button>
+                    <button class="add-to-mayu cart"> Add to mayu cart</button>
                 </div>
             </div>
             <div class="product-card">
                 <img src="https://images.unsplash.com/photo-1551232864-3f0890e580d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Backpack" class="product-img">
                 <div class="product-info">
                     <h3>Travel Backpack</h3>
-                    <div class="price">$790 <span class="old-price">$999</span></div>
+                    <div class="price">$33 <span class="old-price">$33</span></div>
                     <div class="rating">★★★★☆ <span>(67)</span></div>
                     <button class="add-to-cart">Add to mayu cart</button>
                 </div>
@@ -954,7 +954,7 @@
                 <img src="https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Headphones" class="product-img">
                 <div class="product-info">
                     <h3>Sony WH-1000XM5</h3>
-                    <div class="price">$399</div>
+                    <div class="price">$2</div>
                     <div class="rating">★★★★★ <span>(156)</span></div>
                     <button class="add-to-cart">Add to mayu cart</button>
                 </div>
@@ -966,7 +966,7 @@
     <section class="deals">
         <div class="container">
             <div class="section-title">
-                <h2>Flash Sale</h2>
+                <h2>mayu offer Sale</h2>
                 <p>Limited time offers - don't miss out!</p>
             </div>
             
@@ -974,7 +974,7 @@
                 <img src="https://images.unsplash.com/photo-1517336714731-489689fd1ca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80" alt="MacBook Deal" class="deal-img">
                 <div class="deal-content">
                     <h3>MacBook Air M2</h3>
-                    <p>The incredibly thin and light MacBook Air with the powerful M2 chip.</p>
+                    <p>The incredibly thin and light mayu MacBook Air with the powerful M2 chip.</p>
                     
                     <div class="deal-timer">
                         <div class="timer-box">
